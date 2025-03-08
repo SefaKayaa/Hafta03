@@ -37,6 +37,7 @@ let str = "Acun Medya Akademi";
 let sayi = 29;
 let bool = false;
 let belirsiz;
+let nul = null;
 let object1 = {name : "sefa",age : 19}
 let dizi = [1,2,3,4];
 let fonksiyon = function(){return "Acun Medya Akademi"}
@@ -45,6 +46,7 @@ console.log(typeof str);
 console.log(typeof sayi);
 console.log(typeof bool);
 console.log(typeof belirsiz);
+console.log(typeof nul);
 console.log(typeof object1);
 console.log(typeof dizi);
 console.log(typeof fonksiyon);
